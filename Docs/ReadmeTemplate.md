@@ -1,6 +1,6 @@
 # Readme Template
 
-Wabbajack Modlist Installer by 
+Wabbajack Modlist Installer by *author name*
 
 <table stlyle="border: none;">
 <tr>
@@ -20,6 +20,7 @@ Wabbajack Modlist Installer by
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 <!-- omit from toc -->
+
 ## Contents 
 - [Preamble](#preamble)
 - [System Requirements](#system-requirements)
@@ -60,6 +61,8 @@ Only, Windows 10 and 11 are fully supported with Wabbajack. LTSC, special varian
 ***
 
 **NOTE**: You need to have **.NET V7 & V8** and **Java Runtime Environment** installed to make the full use of this list, chances are that **.NET V9** will work as well, but I don't know.
+
+*Insert system requirements*
 
 Space required: Approx  (downloads included).
 
@@ -157,6 +160,8 @@ Simply delete the folder the modlist is in and you have uninstalled it.
 
 ## Support 
 
-I only support the latest version of the modlist. No exceptions. \
-If you encounter bugs with the list as is open a new issue on the list's github page, but check if it's not already mentioned cause duplicate bug reports do not mean it will be magically fixed faster. \
-Support for the list is only for the base list as is, I do not provide support for adding stuff, removing stuff or anything in between. I also do not provide support for working with the tools, you have internet, use it!
+Only the latest version of the modlist is supported. No exceptions.
+
+If you encounter bugs with the list as is open a new issue on the list's github page, but check if it's not already mentioned cause duplicate bug reports do not mean it will be magically fixed faster.
+
+Support for the list is only for the base list as is, no support provided for adding stuff, removing stuff or anything in between.
