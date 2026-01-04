@@ -14,8 +14,8 @@ translations/
 tutorials/
 webcache/
 StockGame/
-
-
+tools/xEdit/
+tools/Bethini pie/
 
 dump_running_process.bat
 helper.exe
@@ -41,3 +41,5 @@ usvfs_x86.dll
 *.bsa
 *.dat
 ModOrganizer.ini
+
+*.refcache

@@ -20,3 +20,8 @@ ccbgssse001-fish.bsa
 ccbgssse025-advdsgs.bsa
 ccbgssse037-curios.bsa
 ccqdrsse001-survivalmode.bsa
+SkyUI_SE.bsa
+unofficial skyrim special edition patch - textures.bsa
+unofficial skyrim special edition patch.bsa
+Vanilla Scripts Enhanced.bsa
+MCMHelper.bsa
