@@ -11,8 +11,15 @@ ccbgssse025-advdsgs.esm
 _ResourcePack.esl
 unofficial skyrim special edition patch.esp
 Disable USSEP Book.esl
+SolitudeLightHouseFix.esl
+SimplyOptimizedScripts.esl
 Vanilla Scripts Enhanced.esl
+Hearthfires Houses Building Fix.esp
+Rock Traps Trigger Fixes.esp
 SkyUI_SE.esp
+KeywordsFixed.esp
+AnthorDragonFix.esp
+dunPOISoldiersRaidOnStartTweak.esp
 MCMHelper.esp
 Hunters Not Bandits.esp
 UIExtensions.esp
@@ -20,3 +27,18 @@ RaceMenu.esp
 RaceMenuPlugin.esp
 Dragon Leveled List Fixes.esp
 fixLOD.esp
+shalidor's maze fixes.esp
+Proving Honor Companions Quest Progression Fix.esp
+StalhrimSourceFix.esp
+Stamina of Steeds.esp
+ChillwindDephts.esp
+SeranaEyeFix.esp
+OreVeinTextureFix.esp
+ballistacrashfix.esp
+defaultCubemapFix.esp
+ShoelessBanditFix.esp
+Fish Plaque Retroactive Fix.esp
+SeranaHoodFixEclipse.esp
+Thieves Guild Holdup Improvements.esp
+Miraak Ethereal Bug Fix.esp
+Modern Brawl Bug Fix.esp

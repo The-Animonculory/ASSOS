@@ -16,6 +16,7 @@ webcache/
 StockGame/
 tools/xEdit/
 tools/Bethini pie/
+tools/ESLifier
 
 dump_running_process.bat
 helper.exe
@@ -40,6 +41,8 @@ usvfs_x86.dll
 *.json
 *.bsa
 *.dat
+*.pex
+*.psc
 ModOrganizer.ini
 
 *.refcache

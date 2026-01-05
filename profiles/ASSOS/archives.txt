@@ -23,9 +23,13 @@ ccqdrsse001-survivalmode.bsa
 SkyUI_SE.bsa
 unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim special edition patch.bsa
+Dragon Leveled List Fixes - Textures.bsa
+Dragon Leveled List Fixes.bsa
+Modern Brawl Bug Fix.bsa
+Hearthfires Houses Building Fix.bsa
+Stamina of Steeds.bsa
+SimplyOptimizedScripts.bsa
 Vanilla Scripts Enhanced.bsa
 UIExtensions.bsa
 MCMHelper.bsa
 RaceMenu.bsa
-Dragon Leveled List Fixes - Textures.bsa
-Dragon Leveled List Fixes.bsa
