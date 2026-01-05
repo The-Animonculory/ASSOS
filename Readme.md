@@ -4,12 +4,14 @@ Wabbajack Modlist Installer by *Althro and Styyx*
 
 <table stlyle="border: none;">
 <tr>
-<td><img src="https://raw.githubusercontent.com/Althro/ADT/main/Resources/WJIcon.png" width="64px" /></td>
+<td><img src="https://raw.githubusercontent.com/The-Animonculory/ASSOS/refs/heads/master/Docs/Images/WJIcon.png" width="64px" /></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>	
-<td><img src="https://raw.githubusercontent.com/Althro/ADT/main/Resources/AMLogo.webp" width="72px" /></td>
-<td><a href="https://discord.gg/B2ZzzBRTB5"><img alt="Discord" src="https://img.shields.io/discord/1132691434420576337?style=for-the-badge&label=My%20Cool%20Discord"></a></td>
+<td><img src="https://raw.githubusercontent.com/The-Animonculory/ASSOS/refs/heads/master/Docs/Images/DiscordIcon.png" width="72px" /></td>
+<td><a href="https://discord.gg/B2ZzzBRTB5"><img alt="Discord" src="https://img.shields.io/discord/1437168312722391192?style=for-the-badge&label=My%20Cool%20Discord"></a></td>
 </tr>
 </table>
+
+
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
