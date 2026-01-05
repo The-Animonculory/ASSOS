@@ -74,6 +74,7 @@
 -04.3 FURNITURE - CLUTTER - ITEMS_separator
 -04.2 FOOD - INGREDIENTS - POTIONS - CONSUMABLES_separator
 +Spiders of Solstheim - Transparency Fix
++Vanilla Ledger Mesh Fix
 +Death Hound Loading Screen Eye Fix
 +Vampire Loading Screen Eye Fix
 +Load Screen Shading Fix
@@ -85,7 +86,12 @@
 +SSS-CT - Slaughterfish Stay Submerged - Collision Tweak
 +Ore Vein Cube Map and Shader Fixes
 +Eyes AO Clipping Fix
++Skaal Village Barrier Smoothener or Remover
++Scattered Embers Mesh and Position Fix
++Drift Material Fixes
++Smelter Mesh Fix
 +Floating Ash Pile Fix
++.1130 _ResourcePack fixes
 +Assorted mesh fixes
 -04.1 BASE MESHES & TEXTURES - EARLY LOADERS_separator
 -04. ___________________________________ MESHES & TEXTURES _______________________________________separator
@@ -178,9 +184,21 @@
 +Auto Input Switch
 -01.2 MODDER RESOURCES - UTILITIES - CORE FIXES_separator
 +SCROTE BSA Version
++Irkngthand's Possible Bugs Fix
++TrapSwingingWall Script Fix
++Standing Ambusher Fix
++Headie Rides Again
++Here We Go Again - World Interactions
++Reset Random Dialogue Scenes
++Nightingale Hall Scene Fixes
++Imperial Thalmor Stormcloak Patrols Fixes - Soldiers and Prisoners World Encounters
++Comprehensive Vanilla Floating Object Fix
++Wispmother And Albino Spider Respawn Fix
++Mannequin Keyword Fix
 +Bandits Not Psychos
 +Dual Wield Behavior Fixes - Nemesis Files
 +Navigator - Navmesh Fixes
++DLC2BlackBookCount Fix
 +World Encounter Noble Riding Horse Fix - WERoad02
 +USSEP Behaviour Patch
 +Quest Fixes
@@ -205,6 +223,7 @@
 +Miraak Ethereal Bug Fix
 +Modern Clap Bug Fix
 +Thieves Guild Holdup (Thief Road Encounter) Improvements
++CritterSpawn - Script Call Reduction
 +CritterSpawn Congestion Fix
 +Dynamic Bloodskal Blade - Lag Fix
 +Scare my Enemy Bug Fix
@@ -243,6 +262,7 @@
 +Unofficial Skyrim Special Edition Patch - USSEP
 +powerofthree's Tweaks
 +Crash Logger SSE AE VR - PDB support
++Save and Load Accelerator for SKSE Cosaves - S.L.A.C.K
 +SSE Engine Fixes
 -01.1 EARLY LOADERS - CORE_separator
 +SkyUI

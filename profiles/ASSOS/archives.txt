@@ -28,6 +28,8 @@ Dragon Leveled List Fixes.bsa
 Modern Brawl Bug Fix.bsa
 Hearthfires Houses Building Fix.bsa
 Stamina of Steeds.bsa
+NightingaleHallSceneFixes.bsa
+ResetRandomScenes.bsa
 SimplyOptimizedScripts.bsa
 Vanilla Scripts Enhanced.bsa
 UIExtensions.bsa

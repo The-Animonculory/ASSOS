@@ -14,9 +14,11 @@ Navigator-NavFixes.esl
 Disable USSEP Book.esl
 SolitudeLightHouseFix.esl
 SimplyOptimizedScripts.esl
+StandingAmbusherFix.esl
 Vanilla Scripts Enhanced.esl
-Hearthfires Houses Building Fix.esp
 SkyUI_SE.esp
+Hearthfires Houses Building Fix.esp
+Vanilla - Floating Object Fix.esp
 RiftWatchtowerNavFix.esp
 Rock Traps Trigger Fixes.esp
 EMISH - Dragon Crash Land Markers Fix.esp
@@ -62,4 +64,17 @@ WERoad02Fix.esp
 MRC_BanditsNotPsychos.esp
 ussep - gildergreen fix.esp
 Guild Master's Armor First Person Texture Fix.esp
+MannequinKeywordFix.esp
+BlackBookFix.esp
+Wispmother And Albino Spider Respawn Fix SE.esp
+DriftMaterialFixes.esp
+DLC2EmberPositioner.esp
+Skaal Village Barrier Smoothener.esp
+Imperial Thalmor Stormcloak Patrols Fixes.esp
+NightingaleHallSceneFixes.esp
+ResetRandomScenes.esp
+HereWeGoAgain.esp
+HeadieRidesAgain.esp
+MissingMercerWorkaround.esp
+ussep - floating object fixes.esp
 Modern Brawl Bug Fix.esp
