@@ -33,3 +33,4 @@ Vanilla Scripts Enhanced.bsa
 UIExtensions.bsa
 MCMHelper.bsa
 RaceMenu.bsa
+Guild Master's Armor First Person Texture Fix.bsa

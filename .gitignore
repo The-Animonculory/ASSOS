@@ -17,7 +17,7 @@ StockGame/
 tools/xEdit/
 tools/Bethini pie/
 tools/ESLifier
-
+tools/Synthesis
 dump_running_process.bat
 helper.exe
 libcrypto-3-x64.dll

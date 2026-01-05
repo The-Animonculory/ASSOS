@@ -10,13 +10,16 @@ ccbgssse037-curios.esl
 ccbgssse025-advdsgs.esm
 _ResourcePack.esl
 unofficial skyrim special edition patch.esp
+Navigator-NavFixes.esl
 Disable USSEP Book.esl
 SolitudeLightHouseFix.esl
 SimplyOptimizedScripts.esl
 Vanilla Scripts Enhanced.esl
 Hearthfires Houses Building Fix.esp
-Rock Traps Trigger Fixes.esp
 SkyUI_SE.esp
+RiftWatchtowerNavFix.esp
+Rock Traps Trigger Fixes.esp
+EMISH - Dragon Crash Land Markers Fix.esp
 KeywordsFixed.esp
 AnthorDragonFix.esp
 dunPOISoldiersRaidOnStartTweak.esp
@@ -28,6 +31,7 @@ RaceMenuPlugin.esp
 Dragon Leveled List Fixes.esp
 fixLOD.esp
 shalidor's maze fixes.esp
+Gildergreen Fix.esp
 Proving Honor Companions Quest Progression Fix.esp
 StalhrimSourceFix.esp
 Stamina of Steeds.esp
@@ -41,4 +45,21 @@ Fish Plaque Retroactive Fix.esp
 SeranaHoodFixEclipse.esp
 Thieves Guild Holdup Improvements.esp
 Miraak Ethereal Bug Fix.esp
+AbandonedPrisonNavFix.esp
+Brawling - No Hitting Bystanders.esp
+AdoptionAndMovingFix.esp
+BeardMaskFix.esp
+Unaggressive Dragon Priests Fix.esp
+Durak Teleport Fix.esp
+Dustmans Cairn Farkas Scene Fix.esp
+EnchantableSpecialItemFix_USSEP.esp
+FastTravelSpeedMultiplier.esp
+OnlyOnce.esp
+Quest Fixes.esp
+Quest Journal Limit Bug Fixer.esp
+stuck on screen fix.esp
+WERoad02Fix.esp
+MRC_BanditsNotPsychos.esp
+ussep - gildergreen fix.esp
+Guild Master's Armor First Person Texture Fix.esp
 Modern Brawl Bug Fix.esp
