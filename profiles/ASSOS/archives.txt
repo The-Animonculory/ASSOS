@@ -24,4 +24,8 @@ SkyUI_SE.bsa
 unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim special edition patch.bsa
 Vanilla Scripts Enhanced.bsa
+UIExtensions.bsa
 MCMHelper.bsa
+RaceMenu.bsa
+Dragon Leveled List Fixes - Textures.bsa
+Dragon Leveled List Fixes.bsa
