@@ -78,3 +78,4 @@ HeadieRidesAgain.esp
 MissingMercerWorkaround.esp
 ussep - floating object fixes.esp
 Modern Brawl Bug Fix.esp
+Quick Start - SE.esp
