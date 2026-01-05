@@ -18,6 +18,7 @@
 +LOD Unloading Bug Fix
 +First Person Sneak Strafe-Walk Stutter Fix
 +Dragon Leveled List Fixes
++Hunters Not Bandits
 -15.1 MISCELLANEOUS PATCHES - BUG FIXES - SCRIPT FIXES_separator
 -15. ________________________________ GENERIC & LATE LOADERS ___________________________________separator
 +Project New Reign - Nemesis Unlimited Behavior Engine
@@ -122,7 +123,6 @@
 +Spell Perk Item Distributor (SPID)
 +ConsolePlusPlus
 +PapyrusUtil SE - Modders Scripting Utility Functions
-+Hunters Not Bandits
 +No More Blinding Fog - SSE Port
 +Absorb Spell XP Fix
 +Scattered Object Solution
