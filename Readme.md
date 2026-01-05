@@ -1,5 +1,7 @@
 # Al/Styyx Setup of Skyrim - ASSOS
 
+![image](https://github.com/The-Animonculory/ASSOS/blob/master/Docs/Images/CompileLogo.png?raw=true)
+
 Wabbajack Modlist Installer by *Althro and Styyx*
 
 <table stlyle="border: none;">
