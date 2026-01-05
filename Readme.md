@@ -66,7 +66,7 @@ Only, Windows 10 and 11 are fully supported with Wabbajack. LTSC, special varian
 
 **NOTE**: You need to have **.NET V9** and **Java Runtime Environment** installed to make the full use of this list.
 
-*Insert system requirements*
+System Requirements: Whatever Skyrim needs. This list doesn't come with any textures besides some fixes.
 
 Space required: Approx 19GB (downloads included).
 
