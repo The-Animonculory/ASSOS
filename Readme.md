@@ -1,6 +1,7 @@
+<!-- omit from toc -->
 # Al/Styyx Setup of Skyrim - ASSOS
 
-![image](https://github.com/The-Animonculory/ASSOS/blob/master/Docs/Images/CompileLogo.png?raw=true)
+![image](https://github.com/The-Animonculory/ASSOS/blob/master/Docs/Images/ASSOSLogo.png?raw=true)
 
 Wabbajack Modlist Installer by *Althro and Styyx*
 
@@ -23,29 +24,30 @@ Wabbajack Modlist Installer by *Althro and Styyx*
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-<!-- omit from toc -->
 
+<!-- omit from toc -->
 ## Contents 
-  - [Preamble](#preamble)
-  - [System Requirements](#system-requirements)
-    - [Disclaimer](#disclaimer)
-  - [Installation](#installation)
-    - [Pre-Installation](#pre-installation)
-    - [Wabbajack Installation](#wabbajack-installation)
-      - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing ASSOS](#downloading-and-installing-assos)
-        - [Problems with installation](#problems-with-installation)
-  - [Post-Installation](#post-installation)
-    - [BethINI Pie](#bethini-pie)
-  - [Playing the List](#playing-the-list)
-    - [Starting up the list](#starting-up-the-list)
-  - [Adding mods to ASSOS](#adding-mods-to-assos)
-    - [Anniversary Edition](#anniversary-edition)
-  - [Updating the modlist](#updating-the-modlist)
-  - [FAQ](#faq)
-  - [Removing the Modlist](#removing-the-modlist)
-  - [Credits and Thanks](#credits-and-thanks)
-  - [Support](#support)
+- [Preamble](#preamble)
+- [System Requirements](#system-requirements)
+  - [Disclaimer](#disclaimer)
+- [Installation](#installation)
+  - [Pre-Installation](#pre-installation)
+  - [Wabbajack Installation](#wabbajack-installation)
+    - [Installing Wabbajack](#installing-wabbajack)
+    - [Downloading and Installing ASSOS](#downloading-and-installing-assos)
+      - [Problems with installation](#problems-with-installation)
+- [Post-Installation](#post-installation)
+  - [BethINI Pie](#bethini-pie)
+- [Playing the List](#playing-the-list)
+  - [Starting up the list](#starting-up-the-list)
+- [Adding mods to ASSOS](#adding-mods-to-assos)
+  - [Anniversary Edition](#anniversary-edition)
+- [Updating the modlist](#updating-the-modlist)
+- [FAQ](#faq)
+- [Removing the Modlist](#removing-the-modlist)
+- [Credits and Thanks](#credits-and-thanks)
+- [Support](#support)
+- [The Animonculory Team](#the-animonculory-team)
 
 ## Preamble
 > *Get Started with your modlist without setting up the basic bug fixes and frameworks yourself.*
