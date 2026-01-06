@@ -10,7 +10,7 @@ Wabbajack Modlist Installer by *Althro and Styyx*
 <td><img src="https://raw.githubusercontent.com/The-Animonculory/ASSOS/refs/heads/master/Docs/Images/WJIcon.png" width="64px" /></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>	
 <td><img src="https://raw.githubusercontent.com/The-Animonculory/ASSOS/refs/heads/master/Docs/Images/DiscordIcon.png" width="72px" /></td>
-<td><a href="https://discord.gg/B2ZzzBRTB5"><img alt="Discord" src="https://img.shields.io/discord/1437168312722391192?style=for-the-badge&label=Animonculory%20Creative%20Corner"></a></td>
+<td><a href="https://discord.gg/zscJV6nJKZ"><img alt="Discord" src="https://img.shields.io/discord/1437168312722391192?style=for-the-badge&label=Animonculory%20Creative%20Corner"></a></td>
 </tr>
 </table>
 
