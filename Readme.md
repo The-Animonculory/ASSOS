@@ -181,6 +181,8 @@ Simply delete the folder the modlist is in and you have uninstalled it.
 
 - _YOU_ for reading this.
 - The Animonculory Team.
+- It's Always 710 for test installing the list
+- Astro for test installing the list
 - Halgari and everyone at the WJ Team.
 
 ## Support 

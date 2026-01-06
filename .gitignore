@@ -44,5 +44,6 @@ usvfs_x86.dll
 *.pex
 *.psc
 ModOrganizer.ini
+*.compiler_settings
 
 *.refcache
