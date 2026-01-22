@@ -96,6 +96,9 @@ Prior to installing ASSOS, please complete the following steps.
 > [!TIP]
 > If your game is not a fresh install, it is still worth making sure you have the paid addon files all downloaded.
 
+>[!CAUTION]
+>**Make sure your version of Rare Curios is from within the Game and not from verifying with Steam.**
+
 ****
 
 ### Wabbajack Installation
@@ -121,8 +124,10 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
     - Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
-    - **Make sure your version of Rare Curios is from within the Game and not from verifying with Steam.**
-      - If you think this is daft for a list without AE DLC support, we do so as well. You are welcome to complain to Wabbajack about this along with any other issues you have with the application. We do not support any issues with the application.
+
+- Unable to download Data_ccbgssse037-curios
+    - You missed the big warning sign in [Pre-Installation](#pre-installation). Go back there and read it.
+        - If you think this is daft for a list without AE DLC support, we do so as well. You are welcome to complain to Wabbajack about this along with any other issues you have with the application. We do not support any issues with the application.
 
 - x is not a whitelisted download:
 
