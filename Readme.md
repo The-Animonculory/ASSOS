@@ -29,7 +29,6 @@ Wabbajack Modlist Installer by *Althro and Styyx*
 ## Contents 
 - [Preamble](#preamble)
 - [System Requirements](#system-requirements)
-  - [Disclaimer](#disclaimer)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
   - [Wabbajack Installation](#wabbajack-installation)
@@ -60,21 +59,20 @@ A full list of mods used can be found [here](https://loadorderlibrary.com/lists/
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
+> [!TIP]
+> You need to have [**Java Runtime Environment**](https://www.java.com/en/download/windows_manual.jsp) installed to make the full use of this list.
+
 ## System Requirements
 
-### Disclaimer
+> [!WARNING]
+> Only, Windows 10 and 11 are fully supported with Wabbajack.
+> LTSC, special variants, lightened editions or any other modified variant, this includes any variant of linux, **MAY OR MAY NOT WORK** and we definitely don't bother supporting any of that.
 
-**GOG and other Languages aside from English are not supported due to how Wabbajack works.**.
-
-Only, Windows 10 and 11 are fully supported with Wabbajack. LTSC, special variants, lightened editions or any other modified variant, this includes any variant of linux, **MAY OR MAY NOT WORK** and we definitely don't bother supporting any of that.
-
-***
-
-**NOTE**: You need to have **.NET V9** and **Java Runtime Environment** installed to make the full use of this list.
-
-System Requirements: Whatever Skyrim needs. This list doesn't come with any textures besides a few fixes.
-
-Space required: Approx 19GB (downloads included).
+| | Requirements | Info |
+| :---: | :---: | :---: |
+| Game | Clean Steam English | GOG and Epic Games not supported. Paid addon not required. |
+| System | Whatever Skyrim needs. | List comes with no textures besides some fixes. |
+| Space | 19GB | Inclusive of downloads. |
 
 ## Installation
 
@@ -82,14 +80,21 @@ Installing ASSOS is relatively easy and, if you have Nexus Premium, will be a si
 
 ### Pre-Installation
 
+> [!CAUTION]
+> [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net 9 Desktop runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.11-windows-x64-installer) are required. Download them by clicking on the links.
+
+***
+
 Prior to installing ASSOS, please complete the following steps.
 
-1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net 9 Desktop runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.11-windows-x64-installer).
-2. Make sure your skyrim install is cleaned and its files are not modded. Otherwise fully uninstall it and reinstall it.
-3. Change the language of the game to English, other languages are simply not supported.
-4. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-5. Launch the game to the main menu and allow it to download the paid addon files.
-6. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will most likely** mess with the installation and, in the case of the latter, causes more problems than it solves.
+1. Make sure your skyrim install is cleaned and its files are not modded. Otherwise fully uninstall it and reinstall it.
+2. Change the language of the game to English, other languages are simply not supported.
+3. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
+4. Launch the game to the main menu and allow it to download the paid addon files.
+5. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will most likely** mess with the installation and, in the case of the latter, causes more problems than it solves.
+
+> [!TIP]
+> If your game is not a fresh install, it is still worth making sure you have the paid addon files all downloaded.
 
 ****
 
