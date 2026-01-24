@@ -51,7 +51,7 @@ Wabbajack Modlist Installer by *Althro and Styyx*
 ## Preamble
 > *Get Started with your modlist without setting up the basic bug fixes and frameworks yourself.*
 
-**Al and Styyx's Setup of Skyrim (ASSOS)** is designed to serve as a base to build off. You'll find all the required bug-fixes and frameworks present, with a few other items to help facilitate your list building. 
+**Al and Styyx's Setup of Skyrim (ASSOS)** is designed to serve as a base to build off. You'll find all the required bug-fixes and frameworks present, with a few other items to help facilitate your list building. Where possible, the mods used are open source. We're big fans of Open Source and Creative commons licences 🙂
 
 Whilst it is not designed for you to play the game with, it'll be stable enough to do so with. There's other lists probably more suited to that though.
 
@@ -160,9 +160,10 @@ If you want some general tips on how to safely mod, visit our [Modding Tutorials
 
 ### Anniversary Edition
 
-ASSOS does not require the paid Anniversary Edition DLC and does not support it.   
+>[!WARNING]
+> ASSOS **does not require** the paid Anniversary Edition DLC and **does not support** it.   
 
-Do not confuse Anniversary Edition with the game's version, which is a number! The list uses SkyrimSE executable version 1.6.1170.
+Do not confuse Anniversary Edition with the game's version, which is a number! The list uses SkyrimSE executable version **1.6.1170**.
 
 ## Updating the modlist
 
@@ -181,8 +182,8 @@ A: It's meant to be used for new modlist setups or wabbajack modlists where STD(
 **Q: What's the difference to any other modlist base?** \
 A: We have no idea, we don't use/make the other ones.
 
-**Q: Why doesn't it have *insert tool here*?** \
-A: Because we think the other tools are up to taste of the list author and we for example do not use any other tool for our other lists.
+**Q: Why doesn't it have *insert name of mod/tool here*?** \
+A: The philosophy behind ASSOS is that, where possible, every mod used is open source, which includes the DLL mods. Certain mods are not open source, so they are not included or alternatives are used.
 
 ## Removing the Modlist
 Simply delete the folder the modlist is in and you have uninstalled it.
