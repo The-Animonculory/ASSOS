@@ -51,28 +51,37 @@ Wabbajack Modlist Installer by *Althro and Styyx*
 ## Preamble
 > *Get Started with your modlist without setting up the basic bug fixes and frameworks yourself.*
 
-**Al and Styyx's Setup of Skyrim (ASSOS)** is designed to serve as a base to build off. You'll find all the required bug-fixes and frameworks present, with a few other items to help facilitate your list building. Where possible, the mods used are open source. We're big fans of Open Source and Creative commons licences 🙂
+**Al and Styyx's Setup of Skyrim (ASSOS)** is designed to serve as a base to build off. You'll find all the required bug-fixes and frameworks present, with a few other items to help facilitate your list building. 
+
+Where possible, the mods used are open source. We're big fans of Open Source and Creative commons licences 🙂
 
 Whilst it is not designed for you to play the game with, it'll be stable enough to do so with. There's other lists probably more suited to that though.
-
-A full list of mods used can be found [here](https://loadorderlibrary.com/lists/al-styyx-setup-of-skyrim-assos).
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 > [!TIP]
 > You need to have [**Java Runtime Environment**](https://www.java.com/en/download/windows_manual.jsp) installed to make the full use of this list.
 
+A full list of mods used can be found [here](https://loadorderlibrary.com/lists/al-styyx-setup-of-skyrim-assos).
+
+>[!NOTE]
+>This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
 ## System Requirements
 
 > [!WARNING]
-> Only, Windows 10 and 11 are fully supported with Wabbajack.
-> LTSC, special variants, lightened editions or any other modified variant, this includes any variant of linux, **MAY OR MAY NOT WORK** and we definitely don't bother supporting any of that.
+> Only Windows 10 and 11 are fully supported with Wabbajack (WJ). We do not support any other operating systems.
+
+Whilst this list ***MAY*** work with Linux or other variants of Windows, no support is offered for them either officially or unofficially. We don't use them or have any intention of doing so, so can't support them.
+
+***
 
 | | Requirements | Info |
 | :---: | :---: | :---: |
-| Game | Clean Steam English | GOG and Epic Games not supported. Paid addon not required. |
-| System | Whatever Skyrim needs. | List comes with no textures besides some fixes. |
-| Space | 19GB | Inclusive of downloads. |
+| **Game** | Clean **Steam English version** | GOG and Epic Games **not supported.**|
+| **Operating System** | Windows 11 (64bit) | Only Windows 11 is currently supported by Microsoft. |
+| **CPU** | 4 Core/ 4 Threads | Anything newer than a 3rd gen i5 or 1st gen Ryzen. ARM & 32bit not supported. |
+| **RAM** | 16GB | 32GB preferrable, but 16GB is fine. |
+| **GPU** | 4GB Vram | Any modern card will be fine. |
+| **Space** | 19GB | SSD strongly recommended. |
 
 ## Installation
 
@@ -169,7 +178,10 @@ Do not confuse Anniversary Edition with the game's version, which is a number! T
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
+Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. 
+
+>[!CAUTION]
+> Any mods you have added will be **deleted** when updating.
 
 ## FAQ
 
