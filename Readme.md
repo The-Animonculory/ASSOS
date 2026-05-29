@@ -207,6 +207,7 @@ Simply delete the folder the modlist is in and you have uninstalled it.
 - It's Always 710 for test installing the list
 - Astro for test installing the list
 - Halgari and everyone at the WJ Team.
+- Kannon555 and KenShikunai on discord for testing and confirming my compile works on windows
 
 ## Support 
 
