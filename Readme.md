@@ -70,7 +70,7 @@ A full list of mods used can be found [here](https://loadorderlibrary.com/lists/
 > [!WARNING]
 > Only Windows 10 and 11 are fully supported with Wabbajack (WJ). We do not support any other operating systems.
 
-Whilst this list ***MAY*** work with Linux or other variants of Windows, no support is offered for them either officially or unofficially. We don't use them or have any intention of doing so, so can't support them.
+Whilst this list ***Definitely does*** work with Linux (since it is developed on linux) or ***may*** work with other variants of Windows, no support is offered for them officially as Wabbajack officially does not support linux or any non-standard windows 10/11 installs. Check out [jackify](https://github.com/Omni-guides/Jackify) for installing with linux. Do keep in mind, not everything may work as expected on any OS but default windows 10 or 11.
 
 ***
 
