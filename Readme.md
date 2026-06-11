@@ -85,7 +85,7 @@ Whilst this list ***Definitely does*** work with Linux (since it is developed on
 
 ## Installation
 
-Installing ASSOS is relatively easy and even without nexus premum, it will be quick. I don't recommend getting premium for a list this size. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
+Installing ASSOS is relatively easy and even without nexus premium, it will be quick. I don't recommend getting premium for a list this size. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
 ### Pre-Installation
 
