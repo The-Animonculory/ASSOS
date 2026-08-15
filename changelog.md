@@ -1,5 +1,14 @@
 # Changelog
 
+## Version 1.3.0
+
+- Removed Nemesis Engine
+- Added Pandora Engine
+- Added Skeleton Auto Patch
+- Added Dyn FNIS AA functions
+- Added Bodyslide and Outfit Studio
+- Fixed BethINI path
+
 ## Version 1.2.0
 
 - Added FLICK - NG
