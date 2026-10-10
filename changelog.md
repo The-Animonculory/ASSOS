@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.4.1 - Hotfix
+
+- Updated NPC Perk Storage
+
 ## Version 1.4.0
 
 - Removed NPC AI Position Fix
