@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.4.2 - Hotfix
+
+- Fixed BethINI Pie meta file to make the list installable again
+
 ## Version 1.4.1 - Hotfix
 
 - Updated NPC Perk Storage
